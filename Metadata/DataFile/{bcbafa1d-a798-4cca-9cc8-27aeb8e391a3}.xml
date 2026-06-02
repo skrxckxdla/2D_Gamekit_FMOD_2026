@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{bcbafa1d-a798-4cca-9cc8-27aeb8e391a3}">
+		<property name="assetPath">
+			<value>ExampleAssets/ExampleAssets/Ambience/City/._ambience_city_traffic_passing_4.ogg</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{87141b2c-14ae-4bd0-b17b-6338c22d2609}</destination>
+		</relationship>
+	</object>
+</objects>

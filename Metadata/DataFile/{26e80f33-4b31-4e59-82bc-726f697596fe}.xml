@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{26e80f33-4b31-4e59-82bc-726f697596fe}">
+		<property name="assetPath">
+			<value>ExampleAssets/ExampleAssets/Character/Hand Foley/Door/._foley_door_close_02.ogg</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{87141b2c-14ae-4bd0-b17b-6338c22d2609}</destination>
+		</relationship>
+	</object>
+</objects>

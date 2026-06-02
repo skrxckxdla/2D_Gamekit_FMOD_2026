@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{2f6ce37d-5f89-4559-a3d9-f721fa733da4}">
+		<property name="assetPath">
+			<value>ExampleAssets/ExampleAssets/Ambience/City/._ambience_city_walla_chatter_4.ogg</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{87141b2c-14ae-4bd0-b17b-6338c22d2609}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{cc050565-66ad-4c1d-aec7-cbc6a90a6161}">
+		<property name="assetPath">
+			<value>ExampleAssets/ExampleAssets/Music/._music_lvl_01_bleep_c.ogg</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{87141b2c-14ae-4bd0-b17b-6338c22d2609}</destination>
+		</relationship>
+	</object>
+</objects>

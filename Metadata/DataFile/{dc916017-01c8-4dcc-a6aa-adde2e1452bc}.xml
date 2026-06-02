@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{dc916017-01c8-4dcc-a6aa-adde2e1452bc}">
+		<property name="assetPath">
+			<value>ExampleAssets/ExampleAssets/Weapons/M4/._weapons_m4_tail_02.ogg</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{87141b2c-14ae-4bd0-b17b-6338c22d2609}</destination>
+		</relationship>
+	</object>
+</objects>

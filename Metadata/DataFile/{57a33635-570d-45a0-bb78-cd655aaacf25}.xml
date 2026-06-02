@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{57a33635-570d-45a0-bb78-cd655aaacf25}">
+		<property name="assetPath">
+			<value>ExampleAssets/ExampleAssets/Character/Footsteps/._footsteps_player_grass_02.ogg</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{87141b2c-14ae-4bd0-b17b-6338c22d2609}</destination>
+		</relationship>
+	</object>
+</objects>

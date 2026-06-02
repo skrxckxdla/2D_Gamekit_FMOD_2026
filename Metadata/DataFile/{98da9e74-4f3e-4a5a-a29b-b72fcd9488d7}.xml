@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{98da9e74-4f3e-4a5a-a29b-b72fcd9488d7}">
+		<property name="assetPath">
+			<value>ExampleAssets/ExampleAssets/Vehicles/Car Engine/._veh_car_engine_190E_01999.ogg</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{87141b2c-14ae-4bd0-b17b-6338c22d2609}</destination>
+		</relationship>
+	</object>
+</objects>

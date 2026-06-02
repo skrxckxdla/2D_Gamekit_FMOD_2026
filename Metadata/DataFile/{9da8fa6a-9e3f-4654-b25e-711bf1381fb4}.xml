@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{9da8fa6a-9e3f-4654-b25e-711bf1381fb4}">
+		<property name="assetPath">
+			<value>ExampleAssets/ExampleAssets/Dialogue/CN/._cn_main_menu.ogg</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{87141b2c-14ae-4bd0-b17b-6338c22d2609}</destination>
+		</relationship>
+	</object>
+</objects>

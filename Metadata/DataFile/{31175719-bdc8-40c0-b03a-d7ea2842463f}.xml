@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{31175719-bdc8-40c0-b03a-d7ea2842463f}">
+		<property name="assetPath">
+			<value>ExampleAssets/ExampleAssets/Music/._music_radio_station_lofi_loop.ogg</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{87141b2c-14ae-4bd0-b17b-6338c22d2609}</destination>
+		</relationship>
+	</object>
+</objects>

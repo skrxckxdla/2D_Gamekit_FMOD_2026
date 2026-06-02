@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{d0bad4e7-3982-406a-bf41-6a037f56938e}">
+		<property name="assetPath">
+			<value>ExampleAssets/ExampleAssets/Music/._music_lvl_03_east_high_pre_rest_re.ogg</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{87141b2c-14ae-4bd0-b17b-6338c22d2609}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="MixerGroup" id="{83534dfb-4b53-43cf-a27f-7a8ccf567f78}">
+		<property name="color">
+			<value>Green</value>
+		</property>
+		<property name="name">
+			<value>SFX_PLY_WPN</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{fe39ec1d-817a-4ee0-ad08-9585de81b5d2}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{443d36a6-e615-4d3e-a329-536f8e087b6f}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{253fd6ca-3270-42f7-ac82-28a1b76efda8}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{fe39ec1d-817a-4ee0-ad08-9585de81b5d2}">
+		<relationship name="effects">
+			<destination>{1340e52c-e58c-4eae-b42b-13a706a67ab1}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{443d36a6-e615-4d3e-a329-536f8e087b6f}" />
+	<object class="MixerBusFader" id="{1340e52c-e58c-4eae-b42b-13a706a67ab1}" />
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{652c8404-6256-4843-8ae3-647c7340766d}">
+		<property name="assetPath">
+			<value>ExampleAssets/ExampleAssets/Dialogue/._.DS_Store</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{87141b2c-14ae-4bd0-b17b-6338c22d2609}</destination>
+		</relationship>
+	</object>
+</objects>

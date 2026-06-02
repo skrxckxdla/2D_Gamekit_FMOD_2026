@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{2741dcf3-ac16-4b0a-b917-055557fb06ae}">
+		<property name="assetPath">
+			<value>ExampleAssets/ExampleAssets/Ambience/Forest/._amb_forest_rain_drop_1.ogg</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{87141b2c-14ae-4bd0-b17b-6338c22d2609}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{15833548-bb8b-4277-8f23-12c4bcae51a6}">
+		<property name="assetPath">
+			<value>ExampleAssets/ExampleAssets/Weapons/Explosion/._weapons_explosion_debris_small.ogg</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{87141b2c-14ae-4bd0-b17b-6338c22d2609}</destination>
+		</relationship>
+	</object>
+</objects>
