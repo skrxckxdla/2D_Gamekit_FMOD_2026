@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{58d3f0ac-f66e-476d-ae5a-8c9d730d3c1d}">
+		<property name="assetPath">
+			<value>Assets/NewMusic/LandingAreaBoss_100BPM/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{87141b2c-14ae-4bd0-b17b-6338c22d2609}</destination>
+		</relationship>
+	</object>
+</objects>
