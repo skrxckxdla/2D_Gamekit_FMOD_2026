@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{8da4077c-cf78-442a-92a7-bc438507eda3}">
+		<property name="color">
+			<value>Green</value>
+		</property>
 		<property name="name">
 			<value>PlayerFootsteps</value>
 		</property>
