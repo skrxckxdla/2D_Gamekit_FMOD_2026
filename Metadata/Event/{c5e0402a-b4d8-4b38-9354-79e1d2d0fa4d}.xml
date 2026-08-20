@@ -427,7 +427,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{500e1f5b-7ada-4df4-ac7a-04653e040f3f}">
 		<property name="volume">
-			<value>-9</value>
+			<value>-5.5</value>
 		</property>
 		<property name="name">
 			<value>Audio 3</value>
@@ -495,7 +495,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{47924579-379f-40e8-9590-a52d477acf23}">
 		<property name="volume">
-			<value>-3</value>
+			<value>-11</value>
 		</property>
 		<property name="name">
 			<value>Audio 4</value>
@@ -563,7 +563,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{d6435cd4-11e2-478a-9855-ff74ef0c7732}">
 		<property name="volume">
-			<value>0.5</value>
+			<value>2.5</value>
 		</property>
 		<property name="name">
 			<value>Audio 5</value>
@@ -599,6 +599,8 @@
 	<object class="MixerBusEffectChain" id="{76304518-253a-47af-9cef-dea5d3caeeaf}">
 		<relationship name="effects">
 			<destination>{e3a272e2-5bf5-48e8-8c55-bd3feb2e4b0c}</destination>
+			<destination>{9bffa7c3-7abb-4a52-8a23-e78c0831bd55}</destination>
+			<destination>{740a1bed-fef7-4bb0-b5bd-22cf5fc896dd}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{5d8a4051-0a98-4f43-90cf-8f6155f6e72c}" />
@@ -834,6 +836,31 @@
 	</object>
 	<object class="MixerBusPanner" id="{bf9b2bf4-9e07-4e91-add6-59bdcf428431}" />
 	<object class="MixerBusFader" id="{e3a272e2-5bf5-48e8-8c55-bd3feb2e4b0c}" />
+	<object class="ThreeEQEffect" id="{9bffa7c3-7abb-4a52-8a23-e78c0831bd55}">
+		<property name="lowGain">
+			<value>1</value>
+		</property>
+		<property name="midGain">
+			<value>-2.5</value>
+		</property>
+		<property name="highGain">
+			<value>4</value>
+		</property>
+	</object>
+	<object class="CompressorEffect" id="{740a1bed-fef7-4bb0-b5bd-22cf5fc896dd}">
+		<property name="threshold">
+			<value>-15</value>
+		</property>
+		<property name="ratio">
+			<value>4.9000001</value>
+		</property>
+		<property name="attackTime">
+			<value>7.4000001</value>
+		</property>
+		<property name="gain">
+			<value>1.5</value>
+		</property>
+	</object>
 	<object class="AutomationPoint" id="{ff612bb9-3bb1-4450-9ae2-51ae059fe4e1}">
 		<property name="position">
 			<value>0.0080000000000000002</value>
