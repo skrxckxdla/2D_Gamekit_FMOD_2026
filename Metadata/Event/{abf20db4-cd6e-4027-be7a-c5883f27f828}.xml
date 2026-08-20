@@ -119,9 +119,6 @@
 	</object>
 	<object class="MixerBusPanner" id="{93ff83c6-adbe-4bf0-9232-0d11c9da4800}" />
 	<object class="SingleSound" id="{8f074b6d-a975-4398-8724-2240dcfa684b}">
-		<property name="looping">
-			<value>true</value>
-		</property>
 		<relationship name="fadeOutCurve">
 			<destination>{02f03ef2-6749-4224-87b1-911f313eaa83}</destination>
 		</relationship>
@@ -130,14 +127,20 @@
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{8da40d2d-2686-4736-8623-c191764fae7e}">
+		<property name="isAsync">
+			<value>true</value>
+		</property>
+		<property name="isCutoff">
+			<value>true</value>
+		</property>
 		<property name="start">
-			<value>0.95000000000000007</value>
+			<value>0.80000000000000004</value>
 		</property>
 		<property name="length">
-			<value>0.65000000000000002</value>
+			<value>0.80000000000000004</value>
 		</property>
 		<property name="timelockedOffset">
-			<value>0.099999999999999978</value>
+			<value>1.5026666666666666</value>
 		</property>
 		<property name="looping">
 			<value>true</value>
@@ -158,9 +161,6 @@
 		</property>
 		<property name="length">
 			<value>0.60000000000000009</value>
-		</property>
-		<property name="looping">
-			<value>true</value>
 		</property>
 		<relationship name="fadeInCurve">
 			<destination>{2bccfe7d-06d8-4f01-84d3-53f95f6780e9}</destination>
@@ -185,10 +185,10 @@
 	</object>
 	<object class="LoopRegion" id="{b3bb6e93-e8b7-4eed-91b0-5a55b7341b5e}">
 		<property name="position">
-			<value>0.95000000000000007</value>
+			<value>1</value>
 		</property>
 		<property name="length">
-			<value>0.65000000000000013</value>
+			<value>0.45000000000000007</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{42ef593e-c83c-4933-805f-cb55232ad090}</destination>
@@ -227,10 +227,10 @@
 	</object>
 	<object class="TransitionRegion" id="{147c62a1-ebb8-4a2a-b7be-150a30a691db}">
 		<property name="position">
-			<value>0.5</value>
+			<value>0.59999999999999998</value>
 		</property>
 		<property name="length">
-			<value>1.1000000000000001</value>
+			<value>0.8500000000000002</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{42ef593e-c83c-4933-805f-cb55232ad090}</destination>
@@ -250,7 +250,7 @@
 			<value>0</value>
 		</property>
 		<property name="length">
-			<value>0.5</value>
+			<value>0.59999999999999987</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{42ef593e-c83c-4933-805f-cb55232ad090}</destination>
@@ -360,18 +360,18 @@
 	</object>
 	<object class="AutomationPoint" id="{2526e590-0ae6-4a6d-af25-edbbe0c2fc1e}">
 		<property name="position">
-			<value>0.95000000000000007</value>
+			<value>0.80000000000000004</value>
 		</property>
 		<property name="value">
 			<value>0</value>
 		</property>
 		<property name="curveShape">
-			<value>-1.00000048</value>
+			<value>-0.120645002</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{74a84c2c-5bde-4192-bfec-1baa7cf78d23}">
 		<property name="position">
-			<value>1.05</value>
+			<value>0.94999999999999996</value>
 		</property>
 		<property name="value">
 			<value>1</value>

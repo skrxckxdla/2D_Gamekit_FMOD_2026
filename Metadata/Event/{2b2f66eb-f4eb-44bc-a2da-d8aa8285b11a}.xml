@@ -112,8 +112,14 @@
 	</object>
 	<object class="MixerBusPanner" id="{b821eb81-7242-4100-89a4-2b68a05eb7ff}" />
 	<object class="SingleSound" id="{783b7574-9bfe-425e-8132-90cde6c27ffe}">
+		<property name="start">
+			<value>2.7755575615628914e-17</value>
+		</property>
 		<property name="length">
-			<value>2</value>
+			<value>1.9259999999999999</value>
+		</property>
+		<property name="timelockedOffset">
+			<value>0.073999999999999982</value>
 		</property>
 		<relationship name="fadeOutCurve">
 			<destination>{01341e74-1ac3-4c1d-a45c-8d0860c0af9e}</destination>
@@ -210,6 +216,10 @@
 	<object class="MixerBusEffectChain" id="{d636096f-bbce-46dc-b7b3-c15ce07a7957}">
 		<relationship name="effects">
 			<destination>{d3ea54ce-e3b1-44d3-8ae1-d83ffbef869e}</destination>
+			<destination>{97073493-da2b-4f11-9db6-6be035f47a47}</destination>
+			<destination>{ea166b35-8e8c-493a-97e0-800cf0846f7d}</destination>
+			<destination>{a8d0e781-06d7-4410-8f26-ca1beaa0b01d}</destination>
+			<destination>{f2c782d7-3592-4b1d-977c-c00908a1986b}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{3fad452c-e252-4c0b-8e90-f572b3ef863b}" />
@@ -277,9 +287,44 @@
 	</object>
 	<object class="MixerBusPanner" id="{d7771e39-bdfe-4b76-96cb-1ba697bb1950}" />
 	<object class="MixerBusFader" id="{d3ea54ce-e3b1-44d3-8ae1-d83ffbef869e}" />
+	<object class="ThreeEQEffect" id="{97073493-da2b-4f11-9db6-6be035f47a47}">
+		<property name="lowGain">
+			<value>5.5</value>
+		</property>
+		<property name="midGain">
+			<value>-4</value>
+		</property>
+		<property name="highGain">
+			<value>6.5</value>
+		</property>
+		<property name="crossoverSlope">
+			<value>2</value>
+		</property>
+	</object>
+	<object class="DistortionEffect" id="{ea166b35-8e8c-493a-97e0-800cf0846f7d}">
+		<property name="level">
+			<value>0.604999959</value>
+		</property>
+	</object>
+	<object class="CompressorEffect" id="{a8d0e781-06d7-4410-8f26-ca1beaa0b01d}">
+		<property name="threshold">
+			<value>-17.5</value>
+		</property>
+		<property name="ratio">
+			<value>4.5999999</value>
+		</property>
+		<property name="gain">
+			<value>-12</value>
+		</property>
+	</object>
+	<object class="ChorusEffect" id="{f2c782d7-3592-4b1d-977c-c00908a1986b}">
+		<property name="rate">
+			<value>1.89999998</value>
+		</property>
+	</object>
 	<object class="AutomationPoint" id="{3fd2e4e7-bb0c-465b-af66-2e4f40611e2b}">
 		<property name="position">
-			<value>0</value>
+			<value>2.7755575615628914e-17</value>
 		</property>
 		<property name="value">
 			<value>1</value>
@@ -290,7 +335,7 @@
 	</object>
 	<object class="AutomationPoint" id="{063aeb81-f868-4f0e-96e2-5f5499cdecfe}">
 		<property name="position">
-			<value>2</value>
+			<value>1.9259999999999999</value>
 		</property>
 		<property name="value">
 			<value>0</value>
