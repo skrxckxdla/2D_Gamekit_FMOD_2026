@@ -61,7 +61,7 @@
 			<destination>{523680b2-de99-4a4d-9957-f4cec0966166}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{0d701ae7-c4e0-424c-aa96-fccddccd5f44}</destination>
+			<destination>{819cf3a6-c9c2-4521-a973-08b4c7be2cd4}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{d23b8faf-2df2-414c-abd4-562ae9a35e0d}" />
@@ -208,7 +208,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{d08297b4-34e2-4fe5-b3ab-9874a393e2d6}">
 		<property name="volume">
-			<value>-2.5</value>
+			<value>-10.5</value>
 		</property>
 		<property name="name">
 			<value>Synth</value>

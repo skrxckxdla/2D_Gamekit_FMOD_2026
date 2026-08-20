@@ -29,6 +29,7 @@
 			<destination>{55a98de3-127e-40bb-892d-d7449cc24156}</destination>
 			<destination>{2fff5a8e-bb11-4326-923b-6506880c53ce}</destination>
 			<destination>{914272fc-31fa-4bb8-9654-2dcd93188755}</destination>
+			<destination>{71dee744-faf0-42fd-b2a3-94bdb412a84d}</destination>
 		</relationship>
 		<relationship name="snapshotTracks">
 			<destination>{53bbc358-738f-4918-9580-dfaca1f66d72}</destination>
@@ -49,7 +50,7 @@
 			<value>highGain</value>
 		</property>
 		<property name="value">
-			<value>-27</value>
+			<value>-12.5</value>
 		</property>
 		<relationship name="automatableObject">
 			<destination>{a27f2978-9ac4-422e-8035-fed55a821e5b}</destination>
@@ -60,7 +61,7 @@
 			<value>lowGain</value>
 		</property>
 		<property name="value">
-			<value>2</value>
+			<value>0</value>
 		</property>
 		<relationship name="automatableObject">
 			<destination>{a27f2978-9ac4-422e-8035-fed55a821e5b}</destination>
@@ -141,6 +142,17 @@
 		</property>
 		<relationship name="automatableObject">
 			<destination>{82d00cb9-2c0a-4233-bb23-c89f5295fa76}</destination>
+		</relationship>
+	</object>
+	<object class="SnapshotProperty" id="{71dee744-faf0-42fd-b2a3-94bdb412a84d}">
+		<property name="propertyName">
+			<value>level</value>
+		</property>
+		<property name="value">
+			<value>-19.5</value>
+		</property>
+		<relationship name="automatableObject">
+			<destination>{03c96111-7bea-40d3-ba21-8fd42d43196f}</destination>
 		</relationship>
 	</object>
 	<object class="SnapshotTrack" id="{53bbc358-738f-4918-9580-dfaca1f66d72}">

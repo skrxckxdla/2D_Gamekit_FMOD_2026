@@ -57,7 +57,7 @@
 			<destination>{fdd95caa-1c35-4e89-91ea-636208833360}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{0d701ae7-c4e0-424c-aa96-fccddccd5f44}</destination>
+			<destination>{819cf3a6-c9c2-4521-a973-08b4c7be2cd4}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{39a6a269-bec5-48b3-b5b0-d3445fd86e80}" />
@@ -84,6 +84,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{19e86040-72ac-470b-9394-8192a20be3d3}">
+		<property name="volume">
+			<value>-6</value>
+		</property>
 		<relationship name="modulators">
 			<destination>{ba94c967-9835-4fe2-8e6c-4d92bd4d955e}</destination>
 		</relationship>
@@ -204,9 +207,6 @@
 		</property>
 		<property name="ratio">
 			<value>3.29999995</value>
-		</property>
-		<property name="gain">
-			<value>7</value>
 		</property>
 	</object>
 	<object class="MixerBusFader" id="{659410da-baa6-4b55-9c22-8bd261571cb2}" />
