@@ -143,7 +143,7 @@
 			<value>0.5357142857142857</value>
 		</property>
 		<property name="pitch">
-			<value>-1.80000007</value>
+			<value>-2.20000005</value>
 		</property>
 		<relationship name="fadeInCurve">
 			<destination>{83fdeebe-07e8-4b77-81d6-afcbb2d68116}</destination>

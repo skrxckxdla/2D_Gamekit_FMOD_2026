@@ -206,7 +206,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{3996db75-cc7b-46c7-9982-3020430faa97}">
 		<property name="volume">
-			<value>0.5</value>
+			<value>3</value>
 		</property>
 		<property name="name">
 			<value>Feet</value>
@@ -266,7 +266,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{58d44377-2369-4cdd-8444-58ece435a064}">
 		<property name="volume">
-			<value>-6.5</value>
+			<value>-8.5</value>
 		</property>
 		<property name="name">
 			<value>Cloth</value>
@@ -305,7 +305,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{a4887508-bd38-4297-9650-4d0730a36750}">
 		<property name="volume">
-			<value>-7.5</value>
+			<value>-0.5</value>
 		</property>
 		<property name="name">
 			<value>Trial</value>
@@ -336,7 +336,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{e2dd1de2-887c-493e-bf99-a9980cdca178}">
 		<property name="volume">
-			<value>-3</value>
+			<value>-1</value>
 		</property>
 		<property name="name">
 			<value>VO</value>
@@ -882,7 +882,7 @@
 			<value>14</value>
 		</property>
 		<property name="gain">
-			<value>1.5</value>
+			<value>2.5</value>
 		</property>
 	</object>
 </objects>
