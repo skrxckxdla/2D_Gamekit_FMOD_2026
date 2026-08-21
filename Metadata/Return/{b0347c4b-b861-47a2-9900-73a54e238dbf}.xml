@@ -22,10 +22,12 @@
 			<destination>{35969cb6-d843-4edd-8a78-5b9ea9e9870b}</destination>
 			<destination>{d660fdd4-4b02-4af6-bc23-1dfbdf1000db}</destination>
 			<destination>{82d00cb9-2c0a-4233-bb23-c89f5295fa76}</destination>
+			<destination>{fd813e01-aff6-411b-adb2-b9da658b0242}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{05fd44d6-5316-4695-a3cc-f27640a5586f}" />
 	<object class="MixerBusFader" id="{35969cb6-d843-4edd-8a78-5b9ea9e9870b}" />
 	<object class="DelayEffect" id="{d660fdd4-4b02-4af6-bc23-1dfbdf1000db}" />
 	<object class="SFXReverbEffect" id="{82d00cb9-2c0a-4233-bb23-c89f5295fa76}" />
+	<object class="ThreeEQEffect" id="{fd813e01-aff6-411b-adb2-b9da658b0242}" />
 </objects>
